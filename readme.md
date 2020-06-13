@@ -20,7 +20,7 @@ Prediction Algorithm:
 1. Sort the points in your data by increasing the distance from x.
 1. Predict the majority label of the "k" closest points.
 
-## About this project.
+## About KNN and using some tools like numpy , pandas and ...
 
 This project objects to classify the observations with respect to a target varaiable indicated at last variable.Its important to note that this one of the anonymized datasets provided by clients.This could be because of the need to protect sensitive information.
 
